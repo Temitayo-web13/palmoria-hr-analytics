@@ -87,9 +87,6 @@ Dashboard
 
 The Tableau workbook contains KPI cards (total employees, average salary), gender distribution, gender by region, gender by department, and salary band charts.
 
-Show Image
-
-Live version: [add Tableau Public link]
 
 Recommendations
 Close the pay gap where it is widest. Run a pay review in the departments and regions identified above and adjust pay for like-for-like roles. [Name them once the numbers are in.]
@@ -137,4 +134,4 @@ This is a single snapshot with no time dimension, so trends cannot be assessed.
 Data comes from a training case study.
 Author
 
-[Temitayo Jaiyeoba] [www.linkedin.com/in/temitayo-jaiyeoba/ Tayo09032@gmail.com / portfolio link]
+[Temitayo Jaiyeoba] [www.linkedin.com/in/temitayo-jaiyeoba/ Tayo09032@gmail.com ]
